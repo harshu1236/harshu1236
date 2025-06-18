@@ -51,8 +51,8 @@
 
 ## 🚀 Projects
 
-- 🔹 **Aura Tracker** – Student Management System for organizing attendance, performance, and tasks  
-- 🔹 **YogaHelix** – Yoga-based health app offering routines, pose guidance, and progress tracking
+- 🔹 **[Aura Tracker](https://github.com/harshu1236/Aura_Tracker)** – Student Management System for organizing attendance, performance, and tasks  
+- 🔹 **[YogaHelix](https://github.com/Shamik172/BeHealthy)** – Yoga-based health app offering routines, pose guidance, and progress tracking
 
 ---
 
@@ -67,12 +67,16 @@
   </a>
 </p>
 
----
+### 📊 Stats Widgets
 
-## 🧩 Dev Card
+<!-- LeetCode Stats Widget -->
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/Harshu_1234?theme=unicorn" height="200px"/>
+</p>
 
-<p align="center">
-  <img src="https://github.com/harshu1236/harshu1236/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+<!-- GFG Stats -->
+<p align="left">
+  <img src="https://geeks-for-geeks-stats-api-bay.vercel.app/?userName=harshu6e5k3" alt="GFG Stats" height="200px"/>
 </p>
 
 ---
@@ -80,11 +84,11 @@
 ## 📌 Pinned Repositories
 
 <p align="left">
-  <a href="https://github.com/harshu1236/Aura-Tracker" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshu1236&repo=Aura-Tracker&theme=radical" />
+  <a href="https://github.com/harshu1236/Aura_Tracker" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshu1236&repo=Aura_Tracker&theme=radical" />
   </a>
-  <a href="https://github.com/harshu1236/YogaHelix" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshu1236&repo=YogaHelix&theme=radical" />
+  <a href="https://github.com/Shamik172/BeHealthy" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shamik172&repo=BeHealthy&theme=radical" />
   </a>
 </p>
 
