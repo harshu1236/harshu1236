@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Final Year MCA @ MNNIT Allahabad | Java & Spring Boot | React Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+MongoDB+%7C+Docker" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+MongoDB+%7C+Docker" />
 </p>
 
 <p align="center">
