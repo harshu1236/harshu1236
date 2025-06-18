@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshu1236&label=Profile%20views&color=0e75b6&style=flat" alt="harshu1236" />
 </p>
 
----
+<hr/>
 
 ## 🧑‍💻 About Me
 
@@ -17,9 +17,9 @@
 - 🔧 I’ve built full-stack applications like **Aura Tracker (Student Management System)** and **YogaHelix**
 - 🚀 I enjoy building scalable backend systems and user-friendly frontend interfaces
 - 💬 Ask me about **Java, Spring Boot, React, MongoDB, MySQL, Docker**
-- 📫 Reach out: [LinkedIn](https://www.linkedin.com/in/harshit-pal-5a25671b7/) | [Email](mailto:harshu612pal@gmail.com)
+- 📨 Reach out: [LinkedIn](https://www.linkedin.com/in/harshit-pal-5a25671b7/) | [Email](mailto:harshu612pal@gmail.com)
 
----
+<hr/>
 
 ## 🛠 Tech Stack
 
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+<hr/>
 
 ## 📈 GitHub Stats
 
@@ -47,14 +47,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshu1236&theme=radical&hide_border=true" width="70%"/>
 </p>
 
----
+<hr/>
 
 ## 🚀 Projects
 
 - 🔹 **[Aura Tracker](https://github.com/harshu1236/Aura_Tracker)** – Student Management System for organizing attendance, performance, and tasks  
 - 🔹 **[YogaHelix](https://github.com/Shamik172/BeHealthy)** – Yoga-based health app offering routines, pose guidance, and progress tracking
 
----
+<hr/>
 
 ## 📚 Coding Profiles
 
@@ -69,17 +69,15 @@
 
 ### 📊 Stats Widgets
 
-<!-- LeetCode Stats Widget -->
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/Harshu_1234?theme=unicorn" height="200px"/>
 </p>
 
-<!-- GFG Stats -->
 <p align="left">
   <img src="https://geeks-for-geeks-stats-api-bay.vercel.app/?userName=harshu6e5k3" alt="GFG Stats" height="200px"/>
 </p>
 
----
+<hr/>
 
 ## 📌 Pinned Repositories
 
@@ -92,11 +90,11 @@
   </a>
 </p>
 
----
+<hr/>
 
-## 📫 Contact Me
+## 📨 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/harshit-pal-5a25671b7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:harshu612pal@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harshit-pal-5a25671b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:harshu612pal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
